@@ -228,4 +228,5 @@ if t1 and t2 and t3 and t4 and t5:
 else:
     st.info("Faça upload das 5 tabelas para começar.")
 
-st.markdown("<p style='text-align:center;color:#888;margin-top:50px'>EntregAI © GEPM 2025 – Otimização de Carga Inteligente</p>", unsafe_allow_html=True)
+
+st.markdown("<p style='text-align:center;color:#888;margin-top:50px'>EntregAI © GEPM 2026 – Otimização de Carga Inteligente</p>", unsafe_allow_html=True)
